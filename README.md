@@ -11,4 +11,4 @@ Aqui você encontrará simulações de rede que abrangem diferentes conceitos, c
 - Simulações de redes corporativas, data centers e cenários de segurança.
 - Testes de desempenho e troubleshoot em ambientes virtuais.
 
-Os projetos são organizados em pastas específicas para cada ferramenta (Packet Tracer ou EVE-NG) e cenário simulado.
+🔧 Este repositório está em constante evolução.
