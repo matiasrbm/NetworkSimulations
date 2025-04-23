@@ -18,7 +18,7 @@ Aqui você encontrará simulações de rede que abrangem diferentes conceitos, c
 
 Este projeto simula uma infraestrutura de rede corporativa utilizando o **Cisco Packet Tracer**, inspirado nos conceitos e práticas do curso **"Redes de Computadores Básico Mão na Massa"** do professor Gustavo Kalau.
 
-## 🔧 Tecnologias e Protocolos Utilizados
+## Tecnologias e Protocolos Utilizados
 
 - Cisco Packet Tracer
 - HSRP (Hot Standby Router Protocol)
@@ -29,7 +29,7 @@ Este projeto simula uma infraestrutura de rede corporativa utilizando o **Cisco 
 - ACLs
 - Redundância de links com dois ISPs (BATATA e BROCOLIS)
 
-## 🧩 Descrição da Topologia
+## Descrição da Topologia
 
 - **CORE1**: Root STP, Gateway principal e master no HSRP
 - **CORE2**: Backup HSRP com comunicação redundante com os access switches
@@ -44,7 +44,7 @@ Este projeto simula uma infraestrutura de rede corporativa utilizando o **Cisco 
 - **Switches de Acesso (AC1 a AC4)** com estações de trabalho
 - **Dois ISPs (BATATA e BROCOLIS)** conectando à Internet (via 8.8.8.8)
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 - Criar redundância na camada de distribuição com HSRP
 - Segmentar a rede com VLANs para maior organização e segurança
